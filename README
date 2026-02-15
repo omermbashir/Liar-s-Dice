@@ -1,5 +1,10 @@
-**WIP**
+# BluffAI — Liar’s Dice Solver
 
-This project explores how modern poker AI techniques can be used to solve and play Liar’s Dice, the bluffing dice game popularised by the steam game Liar’s Bar.
-Liar’s Dice is a game of imperfect information and requires mixed strategies and bluffing
-This project was inspired by Liberatus. https://thegradient.pub/libratus-poker/
+## 🚧 WIP
+
+This project explores how modern poker AI techniques can be used to **solve and play Liar’s Dice**, the bluffing dice game popularised by the Steam game *Liar’s Bar*.
+
+Liar’s Dice is a game of **imperfect information** that requires **mixed strategies, belief modelling, and bluffing** — the same core challenges found in poker AI.
+
+This project is inspired by **Libratus** and modern imperfect-information game research:  
+https://thegradient.pub/libratus-poker/
